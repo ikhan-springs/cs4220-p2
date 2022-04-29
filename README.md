@@ -1,4 +1,4 @@
-# CS 4220 - Project 2
+# CS 4220 Project 2
 
 This repository contains my work for Project 2 for the course CS 4220: Computer Networks.
 
